@@ -1,5 +1,6 @@
 {
     "name": "rubbish_bin_ultra",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
