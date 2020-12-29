@@ -23,4 +23,5 @@ basic.forever(function () {
     if (start_sending2 == 1) {
         bluetooth.uartWriteNumber(waste_height)
     }
+    basic.pause(500)
 })
